@@ -1,1 +1,1 @@
-# Roky-inux-lab
+# Rocky-linux-lab
